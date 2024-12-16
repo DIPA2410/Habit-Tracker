@@ -28,5 +28,5 @@ Below are some sneak-peeks of the app ✨:
   </tr>
 </table>
 
-Feel free to explore the app and feedback is appreciated >.< ✨
-Download the app from here 👇🏻✨
+<p>Feel free to explore the app and feedback is appreciated >.< ✨</p>
+<p>Download the app from the Releases✨</p>
